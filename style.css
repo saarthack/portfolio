@@ -246,7 +246,7 @@ body {
 
 #image-div {
     height: 67vmin;
-    width: 66vmax;
+    width: 70vmax;
     /* border-radius: 50%; */
     /* background-color: red; */
     overflow: hidden;
@@ -255,7 +255,7 @@ body {
 #image-div img {
     object-fit: cover;
     object-position: center;
-    height: 116%;
+    height: 109%;
     width: 100%;
 }
 
@@ -287,7 +287,7 @@ body {
 
     #image-div {
         height: 45vmax;
-        width: 68vw;
+        width: 75vw;
         /* border-radius: 50%; */
         /* background-color: red; */
         overflow: hidden;
@@ -298,8 +298,8 @@ body {
 
     #image-div img {
         object-fit: cover;
-        object-position: center;
-        height: 115%;
+        object-position: bottom;
+        height: 105%;
         width: 100%;
     }
 
